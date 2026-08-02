@@ -136,5 +136,13 @@ This project is licensed under the MIT License.
 - Responsive Web Design Certification
 
 ---
+## 👨‍💻 Author
+
+**Ashish Kumar Yadav**
+
+- GitHub: https://github.com/ashishk5x/
+- LinkedIn: https://linkedin.com/in/ashishk5x/
+
+---
 
 ⭐ If you like this project, consider giving it a star!
