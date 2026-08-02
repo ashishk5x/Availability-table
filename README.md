@@ -8,9 +8,6 @@ A clean and responsive availability table built using **HTML5** and **CSS3**. Th
 
 <img width="2391" height="1411" alt="image" src="https://github.com/user-attachments/assets/3e3e560b-f6cc-4073-967c-be9107f74866" />
 
-
-> Add a screenshot of your project named `preview.png` to display it here.
-
 ---
 
 ## 🚀 Features
